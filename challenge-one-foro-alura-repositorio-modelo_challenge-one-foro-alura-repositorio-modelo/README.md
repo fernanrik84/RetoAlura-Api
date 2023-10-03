@@ -7,16 +7,6 @@
 ### ¡Bienvenido al proyecto con las clases base del desafío Foro Alura con Java y Spring! 
 
 
-### Pasos principales:
-
-#### ⭐Marca este proyecto con una estrella 
-
-#### 📚Sigue las lecciones y las instrucciones de contenido 
-
-#### 📃Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-back-end/aluraforo) 
-
-
-
 - ### Tecnologías utilizadas:
 
   - [Eclipse](https://www.eclipse.org/)
@@ -101,34 +91,7 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683946-24a7a3c1-8170-4280-8047-5eb70cba7a9b.png">
 </p>
 
-## 🚧¿Cómo incluir mi proyecto en este Challenge?
+---
+## Agradecimiento
 
-1. Publicar el proyecto en GitHub;
-2. Utiliza el tema/topic:
-   - *Grupo 5: **challengeforoalura5**;*
-   - Ve a la pestaña "`Acerca`" o `"About"` de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub Incluye la etiqueta *"**challengeforoalura5**"*.
-
-![11 gif - github](https://user-images.githubusercontent.com/78982435/209682261-a06b735c-0752-48ad-bbd3-5784e4f6d7ef.gif)
-
-## 📬¿Cómo hago la entrega final de mi proyecto?
-
-1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado en GitHub** 
-🔹 [Enlace al fomulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
-
-   <p align="center" >
-     <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/216698915-e0d26701-44e6-4e81-8c33-211790c52f27.png">
-</p>
-
-2. Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
-
-3. ¡No olvides publicar un link o un vídeo de tu proyecto en [Linkedin](https://www.linkedin.com/company/alura-latam/mycompany/)! 🏁
-
-💙 Alura Latam
-
-[![img](https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/company/alura-latam/mycompany/)
-
-🧡 Oracle
-
-[![img](https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/company/oracle/)
-
-
+---
